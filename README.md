@@ -8,10 +8,10 @@ Advice on how to tackle this question:<br>
 <pre> - Plan your solution before starting to program.<br>
 This means be sure you understand how the game works before your program.<br>
 Write as detailed an algorithm as you can!!!<br>
-<pre> - Start by writing the 1st two classes (DeckAndDiscard & Player) and testing them to make
+     - Start by writing the 1st two classes (DeckAndDiscard & Player) and testing them to make
 sure they work as you expect them to. You don`t want to be debugging your classes and your
 driver class all at the same time.<br>
-<pre> - When implementing the driver (Golf) do it in chunks. Do not implement the entire game all
+     - When implementing the driver (Golf) do it in chunks. Do not implement the entire game all
 at once. It will be harder to debug and will be frustrating.
 
 
