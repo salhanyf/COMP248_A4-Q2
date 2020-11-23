@@ -6,8 +6,8 @@ Just like the outdoor game of golf the goal is to keep the score as low as possi
 
 Advice on how to tackle this question:<br>
 <pre> - Plan your solution before starting to program.<br>
-This means be sure you understand how the game works before your program.<br>
-Write as detailed an algorithm as you can!!!<br>
+       This means be sure you understand how the game works before your program.<br>
+       Write as detailed an algorithm as you can!!!<br>
  - Start by writing the 1st two classes (DeckAndDiscard & Player) and testing them to make
 sure they work as you expect them to. You don`t want to be debugging your classes and your
 driver class all at the same time.<br>
